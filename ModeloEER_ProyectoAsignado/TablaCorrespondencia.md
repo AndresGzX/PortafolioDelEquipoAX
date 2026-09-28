@@ -77,5 +77,3 @@ MODELO EER CONCEPTUAL              ESQUEMA FÍSICO (Star Schema)
 ```
 
 ---
-
-*Documento generado para el Ejercicio 5 — Práctica 2 · Bases de Datos*
