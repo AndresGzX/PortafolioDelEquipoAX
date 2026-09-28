@@ -19,14 +19,14 @@
 
 ### Detalles de las Propuestas de Mejora (Issues)
 
-#### [Propuesta #3: Automatización de Ingesta y Sincronización de Datos Sísmicos (Pipeline ETL)](https://github.com)
+#### LINK AL ISSUE 1 ---> (https://github.com/AndresGzX/bdPracticaDos/issues/4)
 * **Propuesta por:** Andrés Ramírez Rodríguez
 * **Problema y solución:** Los datos actuales son estáticos y requieren importación manual a PostgreSQL. La propuesta automatiza la consulta de eventos recientes mediante un pipeline ETL para evitar desfasajes.
 * **Modelo y Dificultad:** Añade la entidad `bitacora_etl` e incorpora el atributo `creado_el` en sismos. Su dificultad es **Media** al requerir un script en Python integrado en Docker.
 
 ---
 
-#### [Propuesta #4: Optimización de Usabilidad (UX/UI), Filtro por Estado e Integración Económica INEGI](https://github.com)
+#### LINK AL ISSUE 1 ---> (https://github.com/AndresGzX/bdPracticaDos/issues/3)
 * **Propuesta por:** Andrés Ramírez Rodríguez / Equipo
 * **Problema y solución:** Atiende barreras de usabilidad como interacciones accidentales de *scroll*, falta de filtros avanzados por estado y ausencia de indicadores económicos del INEGI. Implementa mejoras visuales, *scroll-lock*, buscador con zoom y fichas económicas.
 * **Modelo y Dificultad:** Modifica `dim_clasificacion`, añade la dimensión `dim_economia_inegi` y vincula `fact_eventos_sismicos`. Su dificultad estimada es **Baja - Media**.
