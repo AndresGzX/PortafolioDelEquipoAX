@@ -1,13 +1,10 @@
 ### Propuesta por: Andres Ramirez Rodriguez 
 
-### 1.
-* **Título:** 
-Automatización de Ingesta y Sincronización de Datos Sísmicos (Pipeline ETL)
+### 1.Automatización de Ingesta y Sincronización de Datos Sísmicos (Pipeline ETL)
 * **Problema que atiende:** 
 Actualmente, los datos sísmicos del proyecto son estáticos y requieren que un desarrollador descargue e importe manualmente los archivos en el contenedor de PostgreSQL. Esto hace que la plataforma se desfase rápidamente y dependa de la intervención humana para mostrar información reciente.
 
 ### 2. Descripción desde el punto de vista del usuario
-* **Perspectiva del usuario final (analista o ciudadano):** 
 *"Como usuario que consulta el mapa interactivo de sismos de México, quiero abrir la plataforma y ver los eventos sísmicos reales ocurridos el día de hoy o durante la última semana, sin necesidad de que un administrador tenga que programar o subir archivos manualmente al servidor"*.
 
 ### 3. Cambios que implica en el modelo de datos
