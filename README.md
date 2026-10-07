@@ -1,5 +1,5 @@
 ### Integrantes del Equipo
-* **Alvarez Cariño, Jonathan Xavier**
+* **Alvarez Cariño Jonathan Xavier**
 * **Ramírez Rodríguez, Andrés**
 
 ---
