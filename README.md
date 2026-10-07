@@ -1,2 +1,4 @@
-# bdPracticaDos
-Práctica 2.- Modelo Entidad-Relación-Extendido
+# Integrandtes del equipo:
+
+* **Alvarez Cariño Jonathan Xavier**
+* **Ramírez Rodríguez, Andrés**
