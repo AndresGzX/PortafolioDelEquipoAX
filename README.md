@@ -1,4 +1,4 @@
-# Integrandtes del equipo:
+# Integrandtes del equipo :
 
 * **Alvarez Cariño Jonathan Xavier**
-* **Ramírez Rodríguez, Andrés**
+* **Ramírez Rodríguez Andrés**
